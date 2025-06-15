@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello everyone! 
 
-<!--
-**petradvl/petradvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let me introduce myself, my name is **Petra Timotius Anba**.<br>
 
-Here are some ideas to get you started:
+I am an **Informatics Engineering** at [Universitas Mikroskil](https://mikroskil.ac.id/).<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/petratimotiusanba/).
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/petradvl">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=petradvl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=petradvl&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
